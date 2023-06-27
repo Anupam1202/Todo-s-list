@@ -1,1 +1,2 @@
 # Todo-s-list
+The provided code sets up a todo list app using HTML, CSS, and JavaScript. It allows users to add tasks to a list, mark them as completed, and remove them. The app utilizes local storage to save and retrieve the tasks, ensuring data persistence. The code defines functions such as addTask(), saveData(), and showTask() to handle the various functionalities. It also includes event listeners to respond to user interactions, such as clicking on a task or the "x" symbol. Overall, this code establishes a basic yet functional todo list application.
